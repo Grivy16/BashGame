@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
-<a href="https://github.com/Grivy16/Python-Loading-bar#Installation">Installation</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/wiki">Wiki</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/discussions">Discussions</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/issues">Report a bug</a>
+<a href="https://github.com/Grivy16/BashGame#Installation">Installation</a>・<a href="https://github.com/Grivy16/BashGame/wiki">Wiki</a>・<a href="https://github.com/Grivy16/BashGame/discussions">Discussions</a>・<a href="https://github.com/Grivy16/BashGame/issues">Report a bug</a>
 </h3>
 
 ***
