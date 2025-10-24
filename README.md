@@ -1,27 +1,43 @@
-# Project in development the module is not online on github or Pypi.
+<p align="center"><img width="169" height="126" alt="image" src="https://github.com/user-attachments/assets/3841320e-dd6a-43da-ac87-b7c8b0b05ec5" /></p>
+<h1 align="center">BashGame</h1>
+<p align="center">
+  A Module for create a Game in terminal
+  <br><br>
+</p>
 
-# 🎮 RPGprint Module
 
-A Python module to create a **console-based RPG** with an interactive menu and a movable character.  
-Simple, lightweight, and customizable for your Python projects.
+***
 
----
 
-## ✨ Main Features
+<h3 align="center">
+<a href="https://github.com/Grivy16/Python-Loading-bar#Installation">Installation</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/wiki">Wiki</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/discussions">Discussions</a>・<a href="https://github.com/Grivy16/Python-Loading-bar/issues">Report a bug</a>
+</h3>
 
-- 🕹 **Interactive menu** with navigation using arrow keys and selection with **Enter**.  
-- ⚡ **Assign functions** to menu items.  
-- 🧍 **Move the character** using arrow keys.  
-- 📝 **Dynamic text** displayed at the top and bottom of the console.  
-- 🧱 **Create walls** vertically and horizontally to customize the map.  
-- 🎨 **Simple character animation** (alternating skins).  
-- 🧵 **Multi-threading** allows menu and game to run simultaneously.
+***
 
----
 
-## 📦 Installation
+# Installation
 
-Clone the repository and import the module into your Python project:
+### Requirements :
+- python last release
+- Module :
+  - sys
+  - threading
+    
+### Installation
+- #### 1 option :
+  - Download from Pypi with `pip`.
+  - Use the command in bash :
+    ```bash
+    pip install BashGame
 
-```bash
-git clone https://github.com/your-username/your-repo.git
+- #### 2 option :
+  - Clone this repository with :
+    ```bash
+    git clone https://github.com/Grivy16/BashGame
+  - Open the folder :
+    ```bash
+    cd BashGame
+  - use the folder `main.py` in your projet (import her).
+
+***
